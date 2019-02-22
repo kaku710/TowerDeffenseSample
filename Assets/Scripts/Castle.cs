@@ -31,7 +31,7 @@ public class Castle : MonoBehaviour
                 resultText.text = "LOSE..";
                 break;
             case "Enemy":
-                resultText.text = "WIN!!";
+                resultText.text = "WIN!!!";
                 break;
         }
     }
